@@ -1,0 +1,17 @@
+h1,h2{
+    font-family:cursive;
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    background-color: rgb(227, 154, 239);
+}
+img{
+    width: 50%;
+    height: auto;
+    padding: 5% 25% 5% 25%;
+}
+ul,ol,p{
+    font-family: fantasy;
+    font-size: 25px;
+    text-align: center;
+}

@@ -1,0 +1,20 @@
+h1{
+    font-family:cursive;
+    font-size: 40px;
+    text-align: center;
+    background-color: rgb(153, 233, 184);
+}
+ul{
+    font-family: monospace;
+    font-size: 30px;
+    text-align: center;
+}
+a:hover{
+    color: rgb(207, 220, 20);
+}
+a:visited{
+    color: chocolate;
+}
+a:link{
+    color: chocolate;
+}
